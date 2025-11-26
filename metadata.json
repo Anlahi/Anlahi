@@ -1,0 +1,5 @@
+{
+  "name": "德州扑克 AI 教练",
+  "description": "一款高级德州扑克训练器，通过评估您的技能水平并利用 Gemini API 提供实时、AI 驱动的策略建议。",
+  "requestFramePermissions": []
+}
